@@ -1,6 +1,6 @@
-package testProyect_3;
+package TiposDeDatos;
 
-public class Tipos_de_datos_java {
+public class TiposDeDatos {
 	
 	public static void main(String[]args) {
         
